@@ -6,7 +6,7 @@ import Providers from './provders';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Jobify Recording',
+  title: 'Jobify-v2',
   description: 'Job application tracking system for job hunters',
 };
 
